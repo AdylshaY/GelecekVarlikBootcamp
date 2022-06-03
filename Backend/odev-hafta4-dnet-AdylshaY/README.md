@@ -45,8 +45,8 @@ Employee yetkisine sahip kişiler sadece işleri görüntüleyebiliyor ve bu iş
 
 Şifre değiştirirken önceki şifrenin kontrolü yapılıyor.
 
-![Projeye ait ekran görüntüsü](/Screenshots/CodeMetricResults.png)
-![Projeye ait ekran görüntüsü](/Screenshots/SwaggerSS.png)
+![Projeye ait ekran görüntüsü](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-AdylshaY/blob/main/Screenshots/CodeMetricResults.png)
+![Projeye ait ekran görüntüsü](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-hafta4-dnet-AdylshaY/blob/main/Screenshots/SwaggerSS.png)
 
 
 
