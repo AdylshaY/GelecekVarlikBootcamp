@@ -27,15 +27,15 @@ Daha sonra todos sekmesine gelerek başlık, kategori ve statüsü seçerek bir 
 Kategori ekleme ve silme, todo ekleme ve silme işlemleri yapılabiliyor. Kategoriler, statüler ve todolar yeniden düzenlenbiliyor. 
 
 ## Proje Ekran Görüntüleri
-![Projeye ait ekran görüntüsü](/screenshots/home.png)
-![Projeye ait ekran görüntüsü](/screenshots/login.png)
-![Projeye ait ekran görüntüsü](/screenshots/register.png)
-![Projeye ait ekran görüntüsü](/screenshots/todos.png)
-![Projeye ait ekran görüntüsü](/screenshots/todoModal.png)
-![Projeye ait ekran görüntüsü](/screenshots/categories.png)
-![Projeye ait ekran görüntüsü](/screenshots/categoriesModal.png)
-![Projeye ait ekran görüntüsü](/screenshots/gif1.gif)
-![Projeye ait ekran görüntüsü](/screenshots/gif2.gif)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/home.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/login.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/register.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/todos.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/todoModal.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/categories.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/categoriesModal.png)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/gif1.gif)
+![Projeye ait ekran görüntüsü](https://github.com/AdylshaY/GelecekVarlikBootcamp/blob/main/Frontend/React%20Week%202/screenshots/gif2.gif)
 
 ## Kullanımı
 
